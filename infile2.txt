@@ -1,0 +1,200 @@
+23.76.180.115|opera|iOs
+56.149.184.247|IE|linux
+208.240.169.119|IE|iOs
+85.144.93.26|chrome|windows
+241.204.107.203|safari|windows
+166.18.139.62|mozilla ff|windows
+71.19.160.84|mozilla ff|windows
+78.162.173.16|opera|linux
+5.218.88.203|IE|linux
+247.15.185.221|yandex|linux
+46.77.215.167|amigo|windows
+40.134.72.175|IE|linux
+101.96.214.19|IE|linux
+98.130.233.239|opera|android
+40.134.72.175|IE|linux
+25.254.193.159|opera|windows
+136.9.106.51|mozilla ff|android
+71.244.112.31|opera|linux
+20.116.237.130|safari|android
+100.167.237.3|amigo|iOs
+166.18.139.62|yandex|android
+23.76.180.115|chrome|android
+97.33.225.230|safari|android
+49.78.196.78|mozilla ff|windows
+34.173.239.153|amigo|linux
+56.149.184.247|chrome|windows
+23.76.180.115|chrome|windows
+170.101.86.72|yandex|linux
+71.19.160.84|yandex|iOs
+34.173.239.153|safari|linux
+197.237.235.125|mozilla ff|windows
+187.209.229.79|mozilla ff|iOs
+158.70.166.18|mozilla ff|iOs
+170.101.86.72|amigo|android
+98.130.233.239|chrome|iOs
+215.208.37.134|IE|android
+79.216.208.82|amigo|linux
+98.179.255.126|IE|iOs
+62.243.66.96|opera|linux
+117.154.76.95|yandex|iOs
+156.218.114.41|safari|windows
+211.174.179.46|amigo|windows
+48.177.152.89|IE|android
+166.18.139.62|chrome|android
+41.149.106.125|chrome|android
+66.74.236.200|amigo|android
+170.101.86.72|amigo|iOs
+56.149.184.247|safari|windows
+47.98.169.42|IE|android
+5.218.88.203|yandex|iOs
+78.162.173.16|yandex|android
+215.208.37.134|opera|linux
+215.208.37.134|opera|android
+208.240.169.119|safari|windows
+98.179.255.126|opera|linux
+41.149.106.125|opera|windows
+241.204.107.203|IE|android
+159.110.159.22|safari|linux
+22.64.89.46|opera|iOs
+46.77.215.167|amigo|android
+56.149.184.247|amigo|windows
+208.240.169.119|safari|linux
+98.179.255.126|yandex|windows
+99.94.40.61|IE|iOs
+20.116.237.130|amigo|android
+235.151.110.88|safari|windows
+166.18.139.62|mozilla ff|iOs
+62.243.66.96|chrome|linux
+20.116.237.130|yandex|windows
+97.33.225.230|chrome|android
+97.33.225.230|opera|linux
+22.64.89.46|opera|iOs
+79.216.208.82|yandex|iOs
+49.78.196.78|IE|android
+98.130.233.239|chrome|linux
+158.70.166.18|amigo|iOs
+20.116.237.130|mozilla ff|iOs
+41.149.106.125|IE|linux
+159.110.159.22|mozilla ff|iOs
+97.33.225.230|chrome|iOs
+78.162.173.16|safari|android
+247.15.185.221|amigo|iOs
+235.151.110.88|safari|iOs
+34.173.239.153|opera|linux
+40.134.72.175|IE|iOs
+215.208.37.134|amigo|iOs
+186.167.46.72|yandex|android
+99.94.40.61|yandex|linux
+170.101.86.72|chrome|android
+211.174.179.46|yandex|iOs
+71.244.112.31|IE|windows
+187.209.229.79|yandex|linux
+47.98.169.42|yandex|iOs
+74.113.236.0|opera|iOs
+117.154.76.95|opera|android
+48.177.152.89|mozilla ff|iOs
+97.33.225.230|chrome|android
+186.167.46.72|mozilla ff|windows
+187.209.229.79|safari|iOs
+166.18.139.62|mozilla ff|windows
+25.254.193.159|safari|linux
+79.216.208.82|yandex|linux
+48.177.152.89|IE|android
+98.179.255.126|mozilla ff|android
+186.167.46.72|yandex|linux
+41.149.106.125|safari|windows
+247.83.70.232|opera|windows
+197.237.235.125|IE|android
+46.77.215.167|opera|linux
+241.204.107.203|mozilla ff|windows
+71.19.160.84|safari|android
+211.174.179.46|yandex|android
+22.64.89.46|yandex|android
+97.113.87.221|safari|iOs
+5.218.88.203|amigo|windows
+101.96.214.19|chrome|android
+47.98.169.42|chrome|linux
+98.130.233.239|amigo|android
+23.76.180.115|safari|windows
+98.130.233.239|amigo|linux
+20.116.237.130|opera|windows
+79.216.208.82|opera|android
+41.149.106.125|opera|windows
+41.149.106.125|safari|android
+247.83.70.232|mozilla ff|android
+23.76.180.115|amigo|iOs
+215.208.37.134|safari|android
+215.208.37.134|mozilla ff|windows
+170.101.86.72|safari|linux
+100.167.237.3|yandex|android
+22.64.89.46|opera|iOs
+66.74.236.200|IE|iOs
+156.218.114.41|chrome|android
+187.209.229.79|chrome|android
+197.237.235.125|IE|linux
+235.151.110.88|opera|android
+74.113.236.0|safari|linux
+211.174.179.46|chrome|linux
+247.15.185.221|opera|windows
+98.109.14.57|IE|android
+78.162.173.16|amigo|iOs
+248.163.18.207|yandex|windows
+186.167.46.72|IE|windows
+49.78.196.78|yandex|iOs
+136.9.106.51|safari|linux
+199.5.194.235|safari|windows
+48.177.152.89|yandex|linux
+97.33.225.230|chrome|linux
+166.18.139.62|chrome|android
+187.209.229.79|yandex|windows
+241.204.107.203|IE|android
+101.96.214.19|yandex|linux
+47.98.169.42|mozilla ff|iOs
+208.240.169.119|IE|iOs
+186.167.46.72|yandex|linux
+20.116.237.130|IE|windows
+247.83.70.232|yandex|iOs
+197.237.235.125|IE|iOs
+25.254.193.159|chrome|linux
+100.167.237.3|IE|android
+22.64.89.46|yandex|linux
+215.208.37.134|yandex|android
+20.116.237.130|opera|iOs
+98.109.14.57|IE|linux
+48.177.152.89|mozilla ff|linux
+248.163.18.207|amigo|windows
+186.167.46.72|mozilla ff|linux
+79.216.208.82|IE|linux
+5.218.88.203|safari|iOs
+98.109.14.57|safari|linux
+66.74.236.200|yandex|linux
+5.218.88.203|IE|linux
+197.237.235.125|amigo|iOs
+5.218.88.203|chrome|android
+98.109.14.57|safari|linux
+97.33.225.230|opera|android
+47.98.169.42|mozilla ff|windows
+211.174.179.46|yandex|android
+40.134.72.175|chrome|windows
+71.19.160.84|mozilla ff|iOs
+248.163.18.207|yandex|iOs
+85.144.93.26|safari|linux
+97.113.87.221|amigo|android
+199.5.194.235|safari|iOs
+158.70.166.18|yandex|windows
+156.218.114.41|opera|iOs
+71.244.112.31|chrome|iOs
+34.173.239.153|mozilla ff|linux
+71.244.112.31|opera|iOs
+97.113.87.221|amigo|linux
+158.70.166.18|mozilla ff|windows
+99.94.40.61|amigo|iOs
+241.204.107.203|yandex|linux
+98.130.233.239|mozilla ff|iOs
+20.116.237.130|amigo|windows
+34.173.239.153|IE|linux
+47.98.169.42|chrome|linux
+48.177.152.89|opera|iOs
+101.96.214.19|IE|iOs
+47.98.169.42|chrome|iOs
